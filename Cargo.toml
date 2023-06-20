@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Bastian Asmussen"]
 license-file = "LICENSE"
 readme = "README.md"
+description = "Implementations of different sorting algorithms in Rust!"
 
 [dependencies]
 rand = "0.8.5"
