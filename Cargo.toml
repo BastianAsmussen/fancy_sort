@@ -1,0 +1,10 @@
+[package]
+name = "algorithms"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bastian Asmussen"]
+license-file = "LICENSE"
+readme = "README.md"
+
+[dependencies]
+rand = "0.8.5"
