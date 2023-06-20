@@ -3,7 +3,7 @@ name = "fancy_sort"
 version = "0.1.0"
 edition = "2021"
 authors = ["Bastian Asmussen <bastianasmussen@gmail.com>"]
-license-file = "LICENSE"
+license = "MIT"
 readme = "README.md"
 description = "Implementations of different sorting algorithms in Rust!"
 
